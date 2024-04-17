@@ -1,3 +1,14 @@
+<img width="659" alt="dashboard snip" src="https://github.com/samdreal/Excel-Dashboard-Project/assets/68226718/681122f7-43a5-448e-a059-e306e0fb25ee">
+
+
+
+
+
+
+
+
+
+
 # Bike Sales-Dashboard-Project
 The Bike Sales Dashboard is a powerful analytics tool designed to provide insights into bike sales data across various demographics. Its main objectives include:
 
@@ -8,7 +19,13 @@ Distance Analysis: Track the count of bike purchases based on distance, enabling
 Interactive Slicers: Three interactive slicers enhance the dashboard's functionality:
 
 Marital Status: Users can filter data based on marital status, distinguishing between married and single customers.
+
 Region: Explore bike sales trends across different regions, including Europe, North America, and the Pacific.
+
 Education: Analyze bike purchases based on customers' educational backgrounds, ranging from high school to graduate degrees.
+
+
 With its user-friendly interface and interactive features, the Bike Sales Dashboard empowers businesses to make data-driven decisions, optimize marketing efforts, and tailor product offerings to specific demographic segments.
+
+And Big shoutout to Alex The Analyst
 
